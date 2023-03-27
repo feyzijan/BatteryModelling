@@ -1,6 +1,6 @@
 ﻿# Battery Modelling
  
- This project aims to investigate the behaviour of lithium ion batteries in order to create models that simulate the behaviour of a lithiom-ion mattery. The complex electrochemical and physical processes inside battery will be approximated by simple electrical components and circuits that gradually becomes more Complex.
+This project aims to investigate the behaviour of lithium ion batteries in order to create models that simulate the behaviour of a lithiom-ion mattery. The complex electrochemical and physical processes inside battery will be approximated by simple electrical components and circuits that gradually becomes more Complex.
  Here is how the project is divided up
  
 Part 1: A simple Thevenin model: Voltage source and single constant Resistor. Taking current profile as an input and outputting voltage, using 'Coulomb counting' to track the SOC(State of Charge) of the battery.
@@ -16,4 +16,6 @@ Only Current is taken as an imput
 
 Part 4: Improvement of the model in Part 3 with a degradation mechanism : Cycle and Calender Ageing.
 
+
+The project was done as done as part of the Future Clean Transport Technologies Course at Imperial College London.
 
